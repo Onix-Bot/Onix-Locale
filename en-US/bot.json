@@ -1,6 +1,6 @@
 {
     "test": "Hi",
-    "not_reason" : "No Provided Reason",
+    "not_reason": "No Provided Reason",
     "afk_null": "is no longer AFK",
     "afk_reason_high_characters": "'s AFK reason is too long (150 characters max)",
     "afk_done_reason": "is now AFK for",

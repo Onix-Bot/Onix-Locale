@@ -1,3 +1,19 @@
 {
-    "test": "Hi"
+    "test": "Hi",
+    "not_reason" : "No Provided Reason",
+    "afk_null": "is no longer AFK",
+    "afk_reason_high_characters": "'s AFK reason is too long (150 characters max)",
+    "afk_done_reason": "is now AFK for",
+    "avatar_image_size": "Choose the Image Size",
+    "avatar_no_animation": "No Animation",
+    "avatar_option1_pixels": "256 pixels",
+    "avatar_option2_pixels": "1024 pixels",
+    "avatar_embed_description": "'s Avatar.",
+    "avatar_embed_download_avatar": "'Download Avatar Image At:",
+    "avatar_not_help_other_people": "Don't help other people to select the menu!",
+    "banner_download_custom": "Download Custom Color",
+    "banner_dontcustom": "This user don't have a banner or a hex color .. or this user is a bot.",
+    "banner_embed_download_banner": "'Download Banner Image At:",
+    "banner_download_banner": "Download Banner",
+    "bannerserver_not_have_bannerserver": "This server has no banner."
 }
